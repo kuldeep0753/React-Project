@@ -16,11 +16,11 @@ A simple React-based TODO application that allows users to add, delete, and mark
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/todo-app.git
+   git clone https://github.com/kuldeep0753/React-project.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd todo-app
+   cd React-project
    ```
 3. Install dependencies:
    ```sh
@@ -28,7 +28,7 @@ A simple React-based TODO application that allows users to add, delete, and mark
    ```
 4. Start the development server:
    ```sh
-   npm start
+   npm run dev
    ```
 
 ## Usage
@@ -44,7 +44,7 @@ A simple React-based TODO application that allows users to add, delete, and mark
 - `setListTask(listTask.filter((ele, i) => i !== index))`: Removes a task based on its index.
 - CSS styles (`done` and `pending`) are applied dynamically based on task completion.
 
-## Future Enhancements
+## Future Enhancements (Pending)
 - Edit tasks
 - Store tasks in local storage
 - Add due dates and priorities
